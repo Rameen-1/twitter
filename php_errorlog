@@ -1,0 +1,84 @@
+[14-May-2025 10:29:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'profile_pic' in 'field list' in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(14): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 14
+[15-May-2025 10:19:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjv2w9cy93tby.users' doesn't exist in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(14): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 14
+[15-May-2025 10:21:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjv2w9cy93tby.users' doesn't exist in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:14
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(14): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 14
+[15-May-2025 10:24:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjv2w9cy93tby.users' doesn't exist in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:35
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(35): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 35
+[15-May-2025 10:25:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjv2w9cy93tby.users' doesn't exist in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:35
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(35): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 35
+[15-May-2025 11:01:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjv2w9cy93tby.users' doesn't exist in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:35
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(35): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 35
+[15-May-2025 11:07:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbjv2w9cy93tby.users' doesn't exist in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php:35
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php(35): mysqli->prepare('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/signup.php on line 35
+[16-May-2025 11:31:15 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 37
+[16-May-2025 11:31:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 37
+[16-May-2025 11:34:22 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[16-May-2025 11:34:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[16-May-2025 11:38:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[20-May-2025 10:15:13 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[20-May-2025 10:39:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'profile' in 'field list' in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php:11
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php(11): mysqli->prepare('SELECT username...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php on line 11
+[20-May-2025 11:31:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/config.php on line 6
+[20-May-2025 11:31:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'profile' in 'field list' in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php:24
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php(24): mysqli->prepare('SELECT username...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php on line 24
+[20-May-2025 11:31:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/config.php on line 6
+[20-May-2025 11:31:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'profile' in 'field list' in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php:24
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php(24): mysqli->prepare('SELECT username...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php on line 24
+[20-May-2025 11:36:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/config.php on line 6
+[20-May-2025 11:39:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/config.php on line 6
+[20-May-2025 11:39:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'following_id' in 'where clause' in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php:29
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php(29): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php on line 29
+[20-May-2025 11:43:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'following_id' in 'where clause' in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php:29
+Stack trace:
+#0 /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php(29): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/profile.php on line 29
+[20-May-2025 14:41:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[20-May-2025 14:41:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[20-May-2025 14:42:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:17:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:19:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:19:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:19:48 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:20:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:28:33 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:29:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:29:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:29:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+[21-May-2025 10:29:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa151.rehanschool.us/public_html/twitter/home.php on line 48
+ 
